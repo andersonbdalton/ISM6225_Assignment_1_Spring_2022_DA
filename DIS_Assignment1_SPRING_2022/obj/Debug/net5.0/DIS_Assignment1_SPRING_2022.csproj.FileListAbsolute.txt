@@ -1,0 +1,5 @@
+/Users/Dalton/Projects/DIS_Assignment1_SPRING_2022/DIS_Assignment1_SPRING_2022/obj/Debug/net5.0/DIS_Assignment1_SPRING_2022.csproj.AssemblyReference.cache
+/Users/Dalton/Projects/DIS_Assignment1_SPRING_2022/DIS_Assignment1_SPRING_2022/obj/Debug/net5.0/DIS_Assignment1_SPRING_2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dalton/Projects/DIS_Assignment1_SPRING_2022/DIS_Assignment1_SPRING_2022/obj/Debug/net5.0/DIS_Assignment1_SPRING_2022.AssemblyInfoInputs.cache
+/Users/Dalton/Projects/DIS_Assignment1_SPRING_2022/DIS_Assignment1_SPRING_2022/obj/Debug/net5.0/DIS_Assignment1_SPRING_2022.AssemblyInfo.cs
+/Users/Dalton/Projects/DIS_Assignment1_SPRING_2022/DIS_Assignment1_SPRING_2022/obj/Debug/net5.0/DIS_Assignment1_SPRING_2022.csproj.CoreCompileInputs.cache
